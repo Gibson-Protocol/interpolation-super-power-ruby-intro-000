@@ -3,3 +3,4 @@ def display_rainbow
   puts "R: #{0}"
   puts "O: #{1}"
   puts "Y: #{2}"
+end
