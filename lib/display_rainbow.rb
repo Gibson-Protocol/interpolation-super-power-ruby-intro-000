@@ -1,11 +1,10 @@
-def display_rainbow(['red','orange','yellow','green','blue','indigo','violet'])
-  puts "R: #{display_rainbow[0]}", 
-  puts "O: #{display_rainbow[1]}", 
-  puts "Y: #{display_rainbow[2]}", 
-  puts "G: #{display_rainbow[3]}", 
-  puts "B: {display_rainbow[4]}", 
-  puts "I: {display_rainbow[5]}", 
-  puts "V: {display_rainbow[6]}"
-
-
+def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+  colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+  puts "R: [0]",
+  puts "O: [1]",
+  puts "Y: [2]",
+  puts "G: [3]",
+  puts "B: [4]",
+  puts "I: [5]",
+  puts "V: [6]"
 end
