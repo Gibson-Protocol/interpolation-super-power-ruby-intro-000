@@ -7,5 +7,5 @@ def display_rainbow
   puts "B: #{4}"
   puts "I: #{5}"
   puts "V: #{6}"
-  
+
 end
